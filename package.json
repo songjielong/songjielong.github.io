@@ -10,6 +10,7 @@
     "serve": "vitepress serve docs"
   },
   "dependencies": {
+    "@arco-design/web-vue": "^2.58.0",
     "@sugarat/theme": "^0.5.19"
   },
   "directories": {
